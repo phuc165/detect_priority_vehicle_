@@ -3,7 +3,7 @@
  - spyder: https://www.spyder-ide.org/download/
  - visual studio: https://visualstudio.microsoft.com/
  - cmake(binary distribution): https://cmake.org/download/
- - opencv: pip install opencv-python
+ - opencv: https://opencv.org/releases/
  - numpy: pip install numpy
  - dlib: pip install dlib
 ++Any error please ask copilot
