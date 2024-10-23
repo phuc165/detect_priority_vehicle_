@@ -1,0 +1,11 @@
+# Ignore video files
+*.mp4
+
+# Ignore YOLO weight files
+*.weights
+
+# Ignore all .pyc files
+*.pyc
+
+# Ignore any __pycache__ directories
+__pycache__/
